@@ -55,11 +55,10 @@ python model.py
 4. Run the Streamlit app
 streamlit run app.py
 
-📸 Screenshot
 
-## 📸 Screenshot
+# 🎬 Live Demo
 
-![House Price Predictor UI](./screenshot.png)
+![Demo of House Price Predictor](./demo.gif)
 
 
 # Notes 
