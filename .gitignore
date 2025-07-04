@@ -1,0 +1,20 @@
+# Ignore model files
+saved_model/
+
+# Ignore data files (optional)
+data/
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore logs or temporary files
+*.log
+*.tmp
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environment folders
+env/
+venv/
